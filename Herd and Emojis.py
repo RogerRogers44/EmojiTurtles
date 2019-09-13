@@ -24,7 +24,6 @@ Bob.begin_fill()
 Bob.circle(250)
 Bob.end_fill()
 
-# Outline
 Bobe.penup()
 Bobe.right(90)
 Bobe.forward(200)
